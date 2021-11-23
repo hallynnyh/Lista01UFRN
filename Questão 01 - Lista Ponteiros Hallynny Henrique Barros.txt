@@ -1,0 +1,9 @@
+Lista de Exercícios (Ponteiros)
+Aluna: Hallynny Henrique Barros
+
+1. Qual a utilidade do aprendizado do uso de ponteiro para aplicações em engenharia?
+
+Especialmente para aqueles que querem seguir para o universo de programação, ponteiros é de suma 
+importância para por exemplo trabalhar com Drives, em programação de mais baixo nível, como em drivers, sem ponteiros você não sai do lugar.
+O uso de ponteiros também permite ao engenheiro a passagem por referência, o qual é utilizado na passagem e retorno de valores de funções.
+Além da alocação dinâmica de memória, que acredito eu, ser o mais importante quando o assunto é ponteiros.
